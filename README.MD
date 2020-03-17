@@ -5,12 +5,12 @@
  - useState
  ```
 
-## How to install packages (backend)
+## How to install packages (frontend)
 
-### after cloning the repository enter the backend folder
+### after cloning the repository enter the frontend folder
 
 ```sh
-$ cd backend
+$ cd app
 ```
 
 ### yarn
