@@ -1,9 +1,9 @@
- # Simple application developed using:  
+ # Simple application developed using:
+ ```sh  
  $   - functional component 
  $   - arrow functions 
  $   - useState
-
-project developed with NodeJS in backend, ReactJS in frontend and React Native in mobile.
+ ```
 
 ## How to install packages (backend)
 
