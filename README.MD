@@ -1,8 +1,8 @@
  # Simple application developed using:
  ```sh  
- $   - functional component 
- $   - arrow functions 
- $   - useState
+ - functional component 
+ - arrow functions 
+ - useState
  ```
 
 ## How to install packages (backend)
